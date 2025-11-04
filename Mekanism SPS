@@ -1,0 +1,11 @@
+{
+  "name": "SPS",
+  "statePosArrayList": "{blockstatemap:[{Name:\"minecraft:slime_block\"},{Name:\"torchmaster:invisible_light\"},{Name:\"mekanism:sps_casing\"},{Name:\"minecraft:air\"},{Name:\"mekanismgenerators:reactor_glass\"},{Name:\"mekanism:sps_port\",Properties:{active:\"true\"}},{Name:\"mekanism:supercharged_coil\",Properties:{facing:\"down\",fluid_logged:\"empty\"}},{Name:\"mekanism:sps_port\",Properties:{active:\"false\"}}],endpos:{X:6,Y:6,Z:6},startpos:{X:0,Y:0,Z:0},statelist:[I;0,1,2,2,2,3,3,3,2,4,5,4,2,3,2,4,4,4,4,4,2,2,4,4,4,4,4,2,2,4,4,4,4,4,2,3,2,4,4,4,2,3,3,3,2,2,2,3,3,3,2,4,4,4,2,3,2,3,3,3,3,3,2,4,3,3,3,3,3,4,4,3,3,3,3,3,4,4,3,3,3,3,3,4,2,1,3,3,3,3,2,3,2,4,4,4,2,3,2,4,4,4,4,4,2,4,3,3,3,3,3,4,4,3,3,3,3,1,4,4,3,3,3,3,3,4,4,3,3,3,3,3,4,4,3,3,3,3,3,4,2,4,4,4,4,4,2,2,4,4,4,4,4,2,4,3,3,3,3,3,4,4,3,3,3,3,3,4,4,3,3,3,3,3,4,4,3,3,3,3,3,4,4,3,3,6,3,3,4,2,4,4,7,4,4,2,2,4,4,4,4,4,2,4,3,3,3,3,3,4,4,3,3,3,3,3,4,4,3,3,3,3,3,4,4,3,3,1,3,3,4,4,3,3,3,3,3,4,2,4,4,4,4,4,2,3,2,4,4,4,2,3,2,3,3,3,3,3,2,4,3,3,3,3,3,4,4,3,3,3,3,3,4,4,3,3,3,3,3,4,2,3,3,3,3,3,2,3,2,4,4,4,2,1,3,3,2,2,2,1,3,3,2,4,7,4,2,3,2,4,4,4,4,4,2,2,4,4,4,4,4,2,2,4,4,4,4,4,2,3,2,4,4,4,2,3,3,3,2,2,2,3,0]}",
+  "requiredItems": {
+    "mekanism:Reference{ResourceKey[minecraft:item / mekanism:sps_casing]\u003dmekanism:sps_casing}": 60,
+    "minecraft:Reference{ResourceKey[minecraft:item / minecraft:slime_block]\u003dminecraft:slime_block}": 2,
+    "mekanismgenerators:Reference{ResourceKey[minecraft:item / mekanismgenerators:reactor_glass]\u003dmekanismgenerators:reactor_glass}": 123,
+    "mekanism:Reference{ResourceKey[minecraft:item / mekanism:sps_port]\u003dmekanism:sps_port}": 3,
+    "mekanism:Reference{ResourceKey[minecraft:item / mekanism:supercharged_coil]\u003dmekanism:supercharged_coil}": 1
+  }
+}
