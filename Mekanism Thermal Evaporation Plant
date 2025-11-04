@@ -1,0 +1,9 @@
+{
+  "name": "Thermal Evaporation Plant",
+  "statePosArrayList": "{blockstatemap:[{Name:\"mekanism:thermal_evaporation_block\"},{Name:\"mekanism:thermal_evaporation_valve\"},{Name:\"mekanism:thermal_evaporation_controller\",Properties:{active:\"true\",facing:\"west\"}},{Name:\"minecraft:air\"},{Name:\"torchmaster:invisible_light\"}],endpos:{X:3,Y:17,Z:3},startpos:{X:0,Y:0,Z:0},statelist:[I;0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,3,0,0,3,3,0,0,3,3,0,0,3,3,0,0,3,3,0,0,3,3,0,0,3,3,0,0,3,3,0,0,3,3,0,0,3,3,0,0,3,3,0,0,3,3,0,0,3,3,0,0,3,3,0,0,3,3,0,0,3,3,0,0,3,3,0,0,0,0,0,0,3,3,0,0,3,3,0,0,3,3,0,0,3,3,0,0,4,3,0,0,3,3,0,0,3,3,0,0,3,3,0,0,3,3,0,0,3,3,0,0,3,3,0,0,3,3,0,0,3,3,0,0,3,3,0,0,3,3,0,0,3,3,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]}",
+  "requiredItems": {
+    "mekanism:Reference{ResourceKey[minecraft:item / mekanism:thermal_evaporation_controller]\u003dmekanism:thermal_evaporation_controller}": 1,
+    "mekanism:Reference{ResourceKey[minecraft:item / mekanism:thermal_evaporation_block]\u003dmekanism:thermal_evaporation_block}": 218,
+    "mekanism:Reference{ResourceKey[minecraft:item / mekanism:thermal_evaporation_valve]\u003dmekanism:thermal_evaporation_valve}": 1
+  }
+}
