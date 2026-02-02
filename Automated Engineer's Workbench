@@ -1,0 +1,8 @@
+{
+  "name": "",
+  "statePosArrayList": "{blockstatemap:[{Name:\"immersiveengineering:auto_workbench\",Properties:{facing:\"north\",mirrored:\"false\",multiblockslave:\"true\"}},{Name:\"minecraft:air\"},{Name:\"minecraft:slime_block\"},{Name:\"immersiveengineering:auto_workbench\",Properties:{facing:\"north\",mirrored:\"false\",multiblockslave:\"false\"}},{Name:\"fluxnetworks:flux_point\",Properties:{down:\"true\",east:\"false\",north:\"false\",south:\"false\",up:\"false\",waterlogged:\"false\",west:\"false\"}}],endpos:{X:0,Y:0,Z:2},startpos:{X:-2,Y:-2,Z:0},statelist:[I;0,0,0,0,0,0,1,1,2,0,0,0,0,3,0,1,1,1,0,0,0,0,0,0,4,1,1]}",
+  "requiredItems": {
+    "minecraft:slime_block": 1,
+    "fluxnetworks:flux_point": 1
+  }
+}
