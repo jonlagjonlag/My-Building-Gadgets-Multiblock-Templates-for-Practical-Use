@@ -1,13 +1,19 @@
 {
   "name": "",
-  "statePosArrayList": "{blockstatemap:[{Name:\"minecraft:air\"},{Name:\"minecraft:barrel\",Properties:{facing:\"east\",open:\"false\"}},{Name:\"minecraft:slime_block\"},{Name:\"modularrouters:modular_router\",Properties:{active:\"false\",can_emit:\"false\",facing:\"east\"}},{Name:\"immersiveengineering:bottling_machine\",Properties:{facing:\"west\",mirrored:\"false\",multiblockslave:\"true\"}},{Name:\"fluxnetworks:flux_point\",Properties:{down:\"true\",east:\"false\",north:\"false\",south:\"false\",up:\"false\",waterlogged:\"false\",west:\"false\"}},{Name:\"immersiveengineering:bottling_machine\",Properties:{facing:\"west\",mirrored:\"false\",multiblockslave:\"false\"}},{Name:\"mekanism:ultimate_mechanical_pipe\",Properties:{fluid_logged:\"empty\"}},{Name:\"simplemagnets:basic_demagnetization_coil\",Properties:{facing:\"down\"}},{Name:\"ae2:pattern_provider\",Properties:{push_direction:\"all\"}}],endpos:{X:1,Y:0,Z:4},startpos:{X:0,Y:-2,Z:0},statelist:[I;0,0,0,1,2,3,4,4,4,4,5,0,4,4,6,4,4,0,4,4,4,4,0,0,7,8,0,3,0,9]}",
+  "statePosArrayList": "{blockstatemap:[{Name:\"minecraft:air\"},{Name:\"minecraft:barrel\",Properties:{facing:\"east\",open:\"false\"}},{Name:\"minecraft:slime_block\"},{Name:\"modularrouters:modular_router\",Properties:{active:\"false\",can_emit:\"false\",facing:\"east\"}},{Name:\"immersiveengineering:light_engineering\"},{Name:\"immersiveengineering:steel_scaffolding_standard\",Properties:{waterlogged:\"false\"}},{Name:\"immersiveengineering:conveyor_basic\",Properties:{facing:\"north\",waterlogged:\"false\"}},{Name:\"fluxnetworks:flux_point\",Properties:{down:\"false\",east:\"false\",north:\"false\",south:\"false\",up:\"false\",waterlogged:\"false\",west:\"false\"}},{Name:\"immersiveengineering:rs_engineering\"},{Name:\"immersiveengineering:fluid_pump\",Properties:{facing:\"north\",multiblockslave:\"false\",waterlogged:\"false\"}},{Name:\"immersiveengineering:fluid_pump\",Properties:{facing:\"north\",multiblockslave:\"true\",waterlogged:\"false\"}},{Name:\"immersiveengineering:sheetmetal_iron\"},{Name:\"mekanism:ultimate_mechanical_pipe\",Properties:{fluid_logged:\"empty\"}},{Name:\"simplemagnets:basic_demagnetization_coil\",Properties:{facing:\"down\"}},{Name:\"ae2:pattern_provider\",Properties:{push_direction:\"all\"}}],endpos:{X:1,Y:0,Z:4},startpos:{X:0,Y:-2,Z:0},statelist:[I;0,0,0,1,2,3,4,5,4,6,7,0,5,8,9,6,10,0,11,5,11,6,0,0,12,13,0,3,0,14]}",
   "requiredItems": {
+    "immersiveengineering:light_engineering": 2,
+    "immersiveengineering:rs_engineering": 1,
     "minecraft:slime_block": 1,
     "minecraft:barrel": 1,
+    "immersiveengineering:fluid_pump": 2,
+    "immersiveengineering:steel_scaffolding_standard": 3,
     "modularrouters:modular_router": 2,
     "ae2:pattern_provider": 1,
     "mekanism:ultimate_mechanical_pipe": 1,
     "simplemagnets:basic_demagnetization_coil": 1,
-    "fluxnetworks:flux_point": 1
+    "immersiveengineering:sheetmetal_iron": 2,
+    "fluxnetworks:flux_point": 1,
+    "immersiveengineering:conveyor_basic": 3
   }
 }
