@@ -1,8 +1,14 @@
 {
   "name": "",
-  "statePosArrayList": "{blockstatemap:[{Name:\"immersiveengineering:fermenter\",Properties:{facing:\"west\",mirrored:\"false\",multiblockslave:\"true\"}},{Name:\"minecraft:air\"},{Name:\"immersiveengineering:fermenter\",Properties:{facing:\"west\",mirrored:\"false\",multiblockslave:\"false\"}},{Name:\"fluxnetworks:flux_point\",Properties:{down:\"true\",east:\"false\",north:\"false\",south:\"false\",up:\"false\",waterlogged:\"false\",west:\"false\"}},{Name:\"minecraft:slime_block\"}],endpos:{X:2,Y:0,Z:0},startpos:{X:0,Y:-3,Z:-2},statelist:[I;0,0,0,1,1,0,1,1,1,1,1,1,0,0,0,0,2,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,3,4,1,1]}",
+  "statePosArrayList": "{blockstatemap:[{Name:\"immersiveengineering:steel_scaffolding_standard\",Properties:{waterlogged:\"false\"}},{Name:\"immersiveengineering:fluid_pipe\",Properties:{waterlogged:\"false\"}},{Name:\"minecraft:air\"},{Name:\"immersiveengineering:rs_engineering\"},{Name:\"minecraft:cauldron\"},{Name:\"immersiveengineering:sheetmetal_iron\"},{Name:\"immersiveengineering:light_engineering\"},{Name:\"fluxnetworks:flux_point\",Properties:{down:\"false\",east:\"false\",north:\"false\",south:\"false\",up:\"false\",waterlogged:\"false\",west:\"false\"}},{Name:\"minecraft:slime_block\"}],endpos:{X:2,Y:0,Z:0},startpos:{X:0,Y:-3,Z:-2},statelist:[I;0,1,0,2,2,3,2,2,2,2,2,2,0,1,0,4,4,2,5,5,2,2,2,2,0,0,6,4,4,6,5,5,7,8,2,2]}",
   "requiredItems": {
+    "immersiveengineering:light_engineering": 2,
+    "immersiveengineering:rs_engineering": 1,
     "minecraft:slime_block": 1,
-    "fluxnetworks:flux_point": 1
+    "immersiveengineering:steel_scaffolding_standard": 6,
+    "immersiveengineering:sheetmetal_iron": 4,
+    "fluxnetworks:flux_point": 1,
+    "immersiveengineering:fluid_pipe": 2,
+    "minecraft:cauldron": 4
   }
 }
