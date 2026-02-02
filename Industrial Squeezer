@@ -1,0 +1,15 @@
+{
+  "name": "",
+  "statePosArrayList": "{blockstatemap:[{Name:\"immersiveengineering:light_engineering\"},{Name:\"immersiveengineering:steel_scaffolding_standard\",Properties:{waterlogged:\"false\"}},{Name:\"immersiveengineering:wooden_barrel\"},{Name:\"fluxnetworks:flux_point\",Properties:{down:\"false\",east:\"false\",north:\"false\",south:\"false\",up:\"false\",waterlogged:\"false\",west:\"false\"}},{Name:\"immersiveengineering:steel_fence\",Properties:{east:\"true\",north:\"false\",south:\"true\",waterlogged:\"false\",west:\"false\"}},{Name:\"immersiveengineering:steel_fence\",Properties:{east:\"false\",north:\"false\",south:\"true\",waterlogged:\"false\",west:\"true\"}},{Name:\"immersiveengineering:fluid_pipe\",Properties:{waterlogged:\"false\"}},{Name:\"minecraft:air\"},{Name:\"minecraft:piston\",Properties:{extended:\"false\",facing:\"down\"}},{Name:\"immersiveengineering:steel_fence\",Properties:{east:\"false\",north:\"true\",south:\"false\",waterlogged:\"false\",west:\"true\"}},{Name:\"immersiveengineering:rs_engineering\"},{Name:\"minecraft:slime_block\"}],endpos:{X:2,Y:0,Z:0},startpos:{X:0,Y:-2,Z:-2},statelist:[I;0,1,1,0,2,2,3,4,5,1,6,1,7,2,2,7,8,9,1,6,1,10,7,7,11,7,7]}",
+  "requiredItems": {
+    "immersiveengineering:light_engineering": 2,
+    "immersiveengineering:rs_engineering": 1,
+    "minecraft:slime_block": 1,
+    "immersiveengineering:steel_scaffolding_standard": 6,
+    "minecraft:piston": 1,
+    "fluxnetworks:flux_point": 1,
+    "immersiveengineering:fluid_pipe": 2,
+    "immersiveengineering:steel_fence": 3,
+    "immersiveengineering:wooden_barrel": 4
+  }
+}
