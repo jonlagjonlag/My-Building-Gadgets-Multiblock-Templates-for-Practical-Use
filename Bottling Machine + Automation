@@ -1,0 +1,13 @@
+{
+  "name": "",
+  "statePosArrayList": "{blockstatemap:[{Name:\"minecraft:air\"},{Name:\"minecraft:barrel\",Properties:{facing:\"east\",open:\"false\"}},{Name:\"minecraft:slime_block\"},{Name:\"modularrouters:modular_router\",Properties:{active:\"false\",can_emit:\"false\",facing:\"east\"}},{Name:\"immersiveengineering:bottling_machine\",Properties:{facing:\"west\",mirrored:\"false\",multiblockslave:\"true\"}},{Name:\"fluxnetworks:flux_point\",Properties:{down:\"true\",east:\"false\",north:\"false\",south:\"false\",up:\"false\",waterlogged:\"false\",west:\"false\"}},{Name:\"immersiveengineering:bottling_machine\",Properties:{facing:\"west\",mirrored:\"false\",multiblockslave:\"false\"}},{Name:\"mekanism:ultimate_mechanical_pipe\",Properties:{fluid_logged:\"empty\"}},{Name:\"simplemagnets:basic_demagnetization_coil\",Properties:{facing:\"down\"}},{Name:\"ae2:pattern_provider\",Properties:{push_direction:\"all\"}}],endpos:{X:1,Y:0,Z:4},startpos:{X:0,Y:-2,Z:0},statelist:[I;0,0,0,1,2,3,4,4,4,4,5,0,4,4,6,4,4,0,4,4,4,4,0,0,7,8,0,3,0,9]}",
+  "requiredItems": {
+    "minecraft:slime_block": 1,
+    "minecraft:barrel": 1,
+    "modularrouters:modular_router": 2,
+    "ae2:pattern_provider": 1,
+    "mekanism:ultimate_mechanical_pipe": 1,
+    "simplemagnets:basic_demagnetization_coil": 1,
+    "fluxnetworks:flux_point": 1
+  }
+}
